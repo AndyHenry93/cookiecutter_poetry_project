@@ -23,10 +23,5 @@ Python Version: {{ cookiecutter.python_version }}
     ```bash
     make install
     ```
-3. Run the dev server:
-
-    ```bash
-    uvicorn main:app --reload
-    ```
 
 ## Resources
