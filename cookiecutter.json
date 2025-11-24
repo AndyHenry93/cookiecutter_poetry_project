@@ -1,6 +1,6 @@
 {
     "project_name": "my_project",
     "author_name": "Your Name",
-    "python_version": "3.12",
+    "python_version": "3.13.9",
     "Project_description": "A short description of the project."
 }
