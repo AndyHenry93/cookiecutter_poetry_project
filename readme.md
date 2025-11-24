@@ -32,7 +32,7 @@ Follow these steps to set up a new project using this template:
 6. Add Dependencies
     ```bash
     poetry add <dependency_name> # runtime dependencies
-    poetry add --dev pre-commit sphinx  # dev dependencies
+    poetry add --dev pre-commit sphinx python-dotenv # dev dependencies
     ```
 
 6. Install Dependencies
